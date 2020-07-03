@@ -1,7 +1,7 @@
 id=201804036666
-name=Magisk Font Changer 
-version=v2
+name=Fluid Font From Fluid Os
+version=v1
 versionCode=1
-author=Packy
+author=sahadat
 description=Change system fonts Systemlessly
 minMagisk=1500
